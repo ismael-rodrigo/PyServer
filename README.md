@@ -1,2 +1,2 @@
 # PyServer
- Codigo para comunicacao entre servidor e arduino via serial
+ Codigo para comunicacao entre servidor e arduino via serial(desenvolvimento)
